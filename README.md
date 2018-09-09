@@ -1,2 +1,4 @@
-# EHR
-Data Projects with Electronic Health Record (EHR)
+# EHR Data Project!
+
+Data Projects with Electronic Health Record (EHR).
+
